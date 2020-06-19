@@ -1,3 +1,5 @@
+# exquisite-corpse
+
 = Ducky le canard
 
 Il était une fois un canard qui s'appelait Ducky qui allait au parc +
@@ -14,7 +16,6 @@ de faire ce genre de choses ? Peut etre mange-t-il avec des fourche. +
 IMPORTANT: [.big]##SILANCE SINON %@ù£$£µ$:8 CE RéVEIL##
 =======
 
-# exquisite-corpse
 == chapitre 4 Ou il gravait dans le marbre
 Un veille __homme__ **gravait dans du marbre** et +
 
